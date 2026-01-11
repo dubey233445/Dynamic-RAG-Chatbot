@@ -18,7 +18,7 @@ A Python-based RAG (Retrieval-Augmented Generation) chatbot that dynamically upd
 
 1.  **Clone the repository**:
     ```bash
-   https://github.com/dubey233445/Dynamic-RAG-Chatbot.git
+        https://github.com/dubey233445/Dynamic-RAG-Chatbot.git
     ```
 
 2.  **Install dependencies**:
@@ -60,4 +60,5 @@ A Python-based RAG (Retrieval-Augmented Generation) chatbot that dynamically upd
   ```bash
   pip install "numpy<2"
   ```
+
 
